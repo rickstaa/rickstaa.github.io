@@ -3,3 +3,5 @@ description: My developer porfolio
 theme: jekyll-theme-hacker
 # Google Analytics
 google_analytics: G-JPNXSQJRZB
+gems:
+  - jekyll-redirect-from
