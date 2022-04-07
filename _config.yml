@@ -3,5 +3,5 @@ description: My developer porfolio
 theme: jekyll-theme-cayman
 # Google Analytics
 google_analytics: G-JPNXSQJRZB
-gems:
-  - jekyll-redirect-from
+# gems:
+#   - jekyll-redirect-from
